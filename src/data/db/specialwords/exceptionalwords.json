@@ -1,0 +1,82 @@
+[
+    {
+        "unvoweledform": "الله",
+        "voweledform": "الله",
+        "type": "اسم الجلالة",
+        "prefix": "#",
+        "stem": "الله",
+        "suffix": "#"
+    },
+    {
+        "unvoweledform": "لله",
+        "voweledform": "لله",
+        "type": "اسم الجلالة",
+        "prefix": "ل",
+        "stem": "الله",
+        "suffix": "#"
+    },
+    {
+        "unvoweledform": "والله",
+        "voweledform": "والله",
+        "type": "اسم الجلالة",
+        "prefix": "و",
+        "stem": "الله",
+        "suffix": "#"
+    },
+    {
+        "unvoweledform": "تالله",
+        "voweledform": "تالله",
+        "type": "اسم الجلالة",
+        "prefix": "ت",
+        "stem": "الله",
+        "suffix": "#"
+    },
+    {
+        "unvoweledform": "ولله",
+        "voweledform": "ولله",
+        "type": "اسم الجلالة",
+        "prefix": "و",
+        "stem": "الله",
+        "suffix": "#"
+    },
+    {
+        "unvoweledform": "فلله",
+        "voweledform": "فلله",
+        "type": "اسم الجلالة",
+        "prefix": "ف",
+        "stem": "الله",
+        "suffix": "#"
+    },
+    {
+        "unvoweledform": "بالله",
+        "voweledform": "بالله",
+        "type": "اسم الجلالة",
+        "prefix": "ب",
+        "stem": "الله",
+        "suffix": "#"
+    },
+    {
+        "unvoweledform": "فبالله",
+        "voweledform": "فبالله",
+        "type": "اسم الجلالة",
+        "prefix": "فب",
+        "stem": "الله",
+        "suffix": "#"
+    },
+    {
+        "unvoweledform": "وبالله",
+        "voweledform": "وبالله",
+        "type": "اسم الجلالة",
+        "prefix": "وب",
+        "stem": "الله",
+        "suffix": "#"
+    },
+    {
+        "unvoweledform": "أبْجَدِيَّةٌ",
+        "voweledform": "أبجدية",
+        "type": "أبجدية",
+        "prefix": "",
+        "stem": "أبجدية",
+        "suffix": "#"
+    }
+]

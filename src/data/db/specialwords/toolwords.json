@@ -1,0 +1,2370 @@
+[
+    {
+        "unvoweledform": "أيا",
+        "voweledform": "أَيَا",
+        "type": "حَرف نداء - للبعيد",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أجل",
+        "voweledform": "أَجَلْ",
+        "type": "حَرف جواب",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إذن",
+        "voweledform": "إِذَنْ",
+        "type": "حَرف جواب وجزاء – ينصِب المُضارِع",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إذا",
+        "voweledform": "إِذًا",
+        "type": "حَرف جواب وجزاء – ينصِب المُضارِع",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إن",
+        "voweledform": "إِنْ",
+        "type": "حَرف شرط أو نفي أو توكيد أو زائد",
+        "prefixclass": "C1C2C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أن",
+        "voweledform": "أَنْ",
+        "type": "حَرف مصدريّ ناصِب للمُضارِع أو حَرف توكِيد أو تفسير أو زائِد",
+        "prefixclass": "C1C2C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إن",
+        "voweledform": "إِنَّ",
+        "type": "حَرف توكيد ناسِخ",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1C2C3V1V2",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أن",
+        "voweledform": "أَنَّ",
+        "type": "حَرف توكيد ناسِخ",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1C2C3V1V2",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أم",
+        "voweledform": "أَمْ",
+        "type": "حَرف عطف",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أما",
+        "voweledform": "أَمَا",
+        "type": "حَرف استفتاح",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أما",
+        "voweledform": "أَمَّا",
+        "type": "حَرف شَرط وتَفصِيل وتَوكِيد",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إما",
+        "voweledform": "إِمَّا",
+        "type": "حَرف مُرَكَّب (إنْ+ما)",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أو",
+        "voweledform": "أَوْ",
+        "type": "حَرف عَطف",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ألا",
+        "voweledform": "أَلا",
+        "type": "حَرف يُفِيد التَّنبِيه والإنكار والتَّمَنِّي والاستِفهام عن النَّفي و التَّحضِيض",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إلا",
+        "voweledform": "إِلَّا",
+        "type": "أداة استِثناء أوحَرف عَطف أوحَرف زائِد",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3N1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ألا",
+        "voweledform": "أَلاَّ",
+        "type": "حَرف يُفِيد التَّحضِيض",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إلى",
+        "voweledform": "إِلَى",
+        "type": "حرف جر",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إلي",
+        "voweledform": "إِلَيْ",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إي",
+        "voweledform": "إِي",
+        "type": "حَرف جواب",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أي",
+        "voweledform": "أَيْ",
+        "type": "حَرف نداء أو حَرف تَفسِير",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إذ",
+        "voweledform": "إِذْ",
+        "type": "حَرف فُجائِيّ أوحَرف تَعلِيل",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إذما",
+        "voweledform": "إِذْما",
+        "type": "أداة شرط",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إذا",
+        "voweledform": "إِذا",
+        "type": "حَرف فُجائِيّ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "بل",
+        "voweledform": "بَلْ",
+        "type": "حَرف عطف",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "بلى",
+        "voweledform": "بَلَى",
+        "type": "حَرف جواب لإبطال النَّفي",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "بيد",
+        "voweledform": "بَيْدَ",
+        "type": "اسم منصوب على الاستِثناء (بمعنى غَيْر)",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ثم",
+        "voweledform": "ثُمَّ",
+        "type": "حَرف عَطف",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "جلل",
+        "voweledform": "جَلَلْ",
+        "type": "حَرف جواب بمعنى (نَعَم)",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "حاشا",
+        "voweledform": "حاشا",
+        "type": "أداة استِثناء",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "حتى",
+        "voweledform": "حَتَّى",
+        "type": "حرف نصب وجرّ و عَطف وابتِداء",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "خلا",
+        "voweledform": "خَلاَ",
+        "type": "أداة استِثناء",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "رب",
+        "voweledform": "رُبَّ",
+        "type": "حرف جر",
+        "prefixclass": "C1C2C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "سوف",
+        "voweledform": "سَوْفَ",
+        "type": "حَرف تَسوِيف (للمُضارِع)",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "سوى",
+        "voweledform": "سِوَى",
+        "type": "حرف استثناء",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "310"
+    },
+    {
+        "unvoweledform": "سوا",
+        "voweledform": "سِوَا",
+        "type": "حرف استثناء",
+        "prefixclass": "C1C2",
+        "suffixclass": "C2C3N1",
+        "priority": "310"
+    },
+    {
+        "unvoweledform": "سيما",
+        "voweledform": "سِيَّما",
+        "type": "تَركِيبٌ من الاسم (سِيّ) بمعنى (مِثْل)، و (ما) المَوصُوفة",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "عدا",
+        "voweledform": "عَدَا",
+        "type": "أداة استِثناء",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "على",
+        "voweledform": "عَلَى",
+        "type": "حَرف جرّ أو ظَرف",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "علي",
+        "voweledform": "عَلَيْ",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "عن",
+        "voweledform": "عَنْ",
+        "type": "حَرف جرّ أو حرف مصدري أو ظَرف",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1C2C3N1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "غير",
+        "voweledform": "غَيْر",
+        "type": "أداة استِثناء",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3N1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "في",
+        "voweledform": "فِي",
+        "type": "حرف جر",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "قد",
+        "voweledform": "قَدْ",
+        "type": "حَرف تَحقِيق وتَقرِيب",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "كي",
+        "voweledform": "كَيْ",
+        "type": "حَرف مصدريّ ناصِب للمُضارِع",
+        "prefixclass": "C1C2N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "كأي",
+        "voweledform": "كَأَيٍّ",
+        "type": "تَركِيب من (كاف التَّشبِيه) و (أيّ)",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "كذا",
+        "voweledform": "كَذَا",
+        "type": "أداة يُكنى بها عن العَدَد",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "كلا",
+        "voweledform": "كَلاَّ",
+        "type": "أداة تُستَخدَم للزَّجر والرَّدع",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "كأن",
+        "voweledform": "كَأَنَّ",
+        "type": "حَرف تَشبِيه ناسِخ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3V1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "كلا",
+        "voweledform": "كِلا",
+        "type": "اسم جامِد",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "كلتا",
+        "voweledform": "كِلْتا",
+        "type": "اسم جامِد",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "لا",
+        "voweledform": "لا",
+        "type": "أداة نَفي أو نهي أو حرف زائد",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "لات",
+        "voweledform": "لاتَ",
+        "type": "أداة نَفي",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "لو",
+        "voweledform": "لَوْ",
+        "type": "أداة شرط أو حَرف يُفِيد التَّمَنِّي أو حَرف مَصدَرِيّ",
+        "prefixclass": "C1C2C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "لولا",
+        "voweledform": "لَوْلا",
+        "type": "حَرف امتِناع لوُجُود أو حَرف يُفِيد التَّحضِيض أو أداة تُستَخدَم للزَّجر والتَّوبِيخ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "لوما",
+        "voweledform": "لَوْما",
+        "type": "حَرف امتِناع لوُجُود أو حَرف يُفِيد التَّحضِيض أو أداة تُستَخدَم للزَّجر والتَّوبِيخ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "لم",
+        "voweledform": "لَمْ",
+        "type": "حَرف نَفي وجَزم",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "لما",
+        "voweledform": "لَمَّا",
+        "type": "ظرف أو حَرف جَزم أو حَرف استِثناء",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "لن",
+        "voweledform": "لَنْ",
+        "type": "حَرف نَفي ونَصب",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ليت",
+        "voweledform": "لَيْتَ",
+        "type": "حَرف تَمَنِّي ناسِخ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3V1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "لعل",
+        "voweledform": "لَعَلَّ",
+        "type": "حَرف تَرَجِّي ناسِخ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3V1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "لكن",
+        "voweledform": "لَكِنَّ",
+        "type": "حَرف استِدراك ناسِخ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3V1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "لكن",
+        "voweledform": "لَكِنْ",
+        "type": "حَرف ابتِداء",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ما",
+        "voweledform": "ما",
+        "type": "أداة نَفي أو أداة تَعَجُّب أو حَرف مَصدَرِيّ حَرف زائِد أو ظَرف",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "من",
+        "voweledform": "مِنْ",
+        "type": "حرف جر",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1C2C3N1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "مهما",
+        "voweledform": "مَهْمَا",
+        "type": "أداة شرط",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "مذ",
+        "voweledform": "مُذْ",
+        "type": "حَرف جَرّ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "منذ",
+        "voweledform": "مُنْذُ",
+        "type": "حَرف جَرّ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "نعم",
+        "voweledform": "نَعَمْ",
+        "type": "حَرف جواب للتَّصدِيق والإعلام",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ها",
+        "voweledform": "ها",
+        "type": "حَرف تَنبِيه",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هل",
+        "voweledform": "هَلْ",
+        "type": "أداة استفهام",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هكذا",
+        "voweledform": "هَكَذَا",
+        "type": "أداة",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "303"
+    },
+    {
+        "unvoweledform": "هيا",
+        "voweledform": "هَيَا",
+        "type": "حرف نداء",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "308"
+    },
+    {
+        "unvoweledform": "وا",
+        "voweledform": "وَا",
+        "type": "حَرف نداء - للنُّدبة",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "يا",
+        "voweledform": "يا",
+        "type": "حَرف نداء - للبعيد",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أنا",
+        "voweledform": "أَنا",
+        "type": "ضَمِير المُتَكَلِّم – للمُفرَد بِنَوْعَيْه",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "نحن",
+        "voweledform": "نَحْنُ",
+        "type": "ضَمير المُتَكَلِّم – للمُثَنَّى والجَمع بِنَوْعَيْه",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أنت",
+        "voweledform": "أَنْتَ",
+        "type": "ضَمِير المُخاطَب – للمُفرَد المُذَكَّر",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أنت",
+        "voweledform": "أَنْتِ",
+        "type": "ضَمِير المُخاطَب – للمُفرَد المُؤَنَّث",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أنتما",
+        "voweledform": "أَنتُما",
+        "type": "ضَمِير المُخاطَب – للمُثَنَّى بِنَوْعَيْه",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أنتم",
+        "voweledform": "أَنْتُم",
+        "type": "ضَمِير المُخاطَب – للجمع المُذَكَّر",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أنتن",
+        "voweledform": "أَنْتُنَّ",
+        "type": "ضَمِير المُخاطَب – للجمع المُؤَنَّث",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هو",
+        "voweledform": "هُوَ",
+        "type": "ضَمِير الغائِب – للمُفرَد المُذَكَّر",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هي",
+        "voweledform": "هِيَ",
+        "type": "ضَمِير الغائِب – للمُفرَد المُؤَنَّث",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هما",
+        "voweledform": "هُما",
+        "type": "ضَمِير الغائِب – للمُثَنَّى بِنَوْعَيْه",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هم",
+        "voweledform": "هُمْ",
+        "type": "ضَمِير الغائِب – للجمع المُذَكَّر",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هن",
+        "voweledform": "هُنَّ",
+        "type": "ضَمِير الغائِب – للجمع المُؤَنَّث",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إياي",
+        "voweledform": "إِيَّايَ",
+        "type": "ضَمِير المُتَكَلِّم – للمُفرَد بِنَوْعَيْه",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إيانا",
+        "voweledform": "إِيَّانا",
+        "type": "ضَمير المُتَكَلِّم – للمُثَنَّى والجَمع بِنَوْعَيْه",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إياك",
+        "voweledform": "إِيَّاكَ",
+        "type": "ضَمِير المُخاطَب – للمُفرَد المُذَكَّر",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إياك",
+        "voweledform": "إِيَّاكِ",
+        "type": "ضَمِير المُخاطَب – للمُفرَد المُؤَنَّث",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إياكما",
+        "voweledform": "إِيَّاكُما",
+        "type": "ضَمِير المُخاطَب – للمُثَنَّى بِنَوْعَيْه",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إياكم",
+        "voweledform": "إِيَّاكُم",
+        "type": "ضَمِير المُخاطَب – للجمع المُذَكَّر",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إياكن",
+        "voweledform": "إِيَّاكُنَّ",
+        "type": "ضَمِير المُخاطَب – للجمع المُؤَنَّث",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إياه",
+        "voweledform": "إِيَّاهُ",
+        "type": "ضَمِير الغائِب – للمُفرَد المُذَكَّر",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إياها",
+        "voweledform": "إِيَّاها",
+        "type": "ضَمِير الغائِب – للمُفرَد المُؤَنَّث",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إياهما",
+        "voweledform": "إِيَّاهُما",
+        "type": "ضَمِير الغائِب – للمُثَنَّى بِنَوْعَيْه",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إياهم",
+        "voweledform": "إِيَّاهُم",
+        "type": "ضَمِير الغائِب – للجمع المُذَكَّر",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إياهن",
+        "voweledform": "إِيَّاهُنَّ",
+        "type": "ضَمِير الغائِب – للجمع المُؤَنَّث",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ذا",
+        "voweledform": "ذا",
+        "type": "اسم إشارة – للمُفرَد المُذَكَّر",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1C2",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ذي",
+        "voweledform": "ذِي",
+        "type": "اسم إشارة – للمُفرَد المُؤَنَّث",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1C2",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "تي",
+        "voweledform": "تِي",
+        "type": "اسم إشارة – للمُفرَد المُؤَنَّث",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1C2",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ذه",
+        "voweledform": "ذِهْ",
+        "type": "اسم إشارة – للمُفرَد المُؤَنَّث",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ته",
+        "voweledform": "تِهْ",
+        "type": "اسم إشارة – للمُفرَد المُؤَنَّث",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ذان",
+        "voweledform": "ذانِ",
+        "type": "اسم إشارَة – للمُثَنَّى المُذَكَّر – في حالَة الرَّفع",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1C2",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ذين",
+        "voweledform": "ذيْنِ",
+        "type": "اسم إشارَة – للمُثَنَّى المُذَكَّر – في حالَتَي النَّصب والجَرّ",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1C2",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "تان",
+        "voweledform": "تانِ",
+        "type": "اسم إشارَة – للمُثَنَّى المُؤَنَّث – في حالَة الرَّفع",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1C2",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "تين",
+        "voweledform": "تَيْنِ",
+        "type": "اسم إشارَة – للمُثَنَّى المُؤَنَّث – في حالَتَي النَّصب والجَرّ",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1C2",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أولاء",
+        "voweledform": "أَولاء",
+        "type": "اسم إشارَة – للجمع بِنَوْعَيْهِ",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1C2",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هذا",
+        "voweledform": "هَذَا",
+        "type": "اسم إشارة – للمُفرَد المُذَكَّر",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هذه",
+        "voweledform": "هَذِهِ",
+        "type": "اسم إشارة – للمُفرَد المُؤَنَّث",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هذان",
+        "voweledform": "هَذَان",
+        "type": "اسم إشارَة – للمُثَنَّى المُذَكَّر – في حالَة الرَّفع",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هذين",
+        "voweledform": "هَذَيْن",
+        "type": "اسم إشارَة – للمُثَنَّى المُذَكَّر – في حالَتَي النَّصب والجَرّ",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هاتان",
+        "voweledform": "هَاتَانِ",
+        "type": "اسم إشارَة – للمُثَنَّى المُؤَنَّث – في حالَة الرَّفع",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هاتين",
+        "voweledform": "هَاتَيْن",
+        "type": "اسم إشارَة – للمُثَنَّى المُؤَنَّث – في حالَتَي النَّصب والجَرّ",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هؤلاء",
+        "voweledform": "هَؤُلاء",
+        "type": "اسم إشارَة – للجمع بِنَوْعَيْهِ",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "تلك",
+        "voweledform": "تِلْكَ",
+        "type": "اسم إشارة",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "تلكما",
+        "voweledform": "تِلْكُمَا",
+        "type": "اسم إشارة",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "تلكم",
+        "voweledform": "ْتِلْكُم",
+        "type": "اسم إشارة",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "تلكن",
+        "voweledform": "تِلْكُنَّ",
+        "type": "اسم إشارة",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "ذلك",
+        "voweledform": "ذَلِكَ",
+        "type": "اسم إشارة",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "ذلكما",
+        "voweledform": "ذَلِكُمَا",
+        "type": "اسم إشارة",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "ذلكم",
+        "voweledform": "ذَلِكُمْ",
+        "type": "اسم إشارة",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "ذلكن",
+        "voweledform": "ذَلِكُنَّ",
+        "type": "اسم إشارة",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "الذي",
+        "voweledform": "الَّذِي",
+        "type": "اسم مَوصُول – للمُفرَد المُذَكَّر",
+        "prefixclass": "C1C2C3N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "التي",
+        "voweledform": "الَّتِي",
+        "type": "اسم مَوصُول – للمُفرَد المُؤَنَّث",
+        "prefixclass": "C1C2C3N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "اللذان",
+        "voweledform": "اللَّذَانِ",
+        "type": "اسم مَوصُول – للمُثَنَّى المُذَكَّر – في حالَة الرَّفع",
+        "prefixclass": "C1C2C3N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "اللذين",
+        "voweledform": "اللَّذَيْنِ",
+        "type": "اسم مَوصُول – للمُثَنَّى المُذَكَّر – في حالَتَي النَّصب والجَرّ",
+        "prefixclass": "C1C2C3N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "اللتان",
+        "voweledform": "اللَّتَانِ",
+        "type": "مَوصُول – للمُثَنَّى المُؤَنَّث – في حالَة الرَّفع",
+        "prefixclass": "C1C2C3N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "اللتين",
+        "voweledform": "اللَّتَيْنِ",
+        "type": "اسم مَوصُول – للمُثَنَّى المُؤَنَّث – في حالَتَي النَّصب والجَرّ",
+        "prefixclass": "C1C2C3N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "الذين",
+        "voweledform": "الَّذِين",
+        "type": "اسم مَوصُول – للجمع المُذَكَّر",
+        "prefixclass": "C1C2C3N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "اللاتي",
+        "voweledform": "اللاَّتِي",
+        "type": "اسم مَوصُول – للجمع المُؤَنَّث",
+        "prefixclass": "C1C2C3N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "اللائي",
+        "voweledform": "اللاَّئِي",
+        "type": "اسم مَوصُول – للجمع المُؤَنَّث",
+        "prefixclass": "C1C2C3N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "اللواتي",
+        "voweledform": "اللَّوَاتِي",
+        "type": "اسم موصول",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1",
+        "priority": "103"
+    },
+    {
+        "unvoweledform": "من",
+        "voweledform": "مَنْ",
+        "type": "اسم مَوصُول – للعاقِل",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ما",
+        "voweledform": "مَا",
+        "type": "اسم مَوصُول – لغير العاقِل",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أي",
+        "voweledform": "أَيّ",
+        "type": "اسم مَوصُول – للعاقِل ولغَيرِه",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "كيف",
+        "voweledform": "كَيْفَ",
+        "type": "اسم استِفهام – عن الحال",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "من",
+        "voweledform": "مَنْ",
+        "type": "اسم استِفهام – للعاقِل",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ما",
+        "voweledform": "مَا",
+        "type": "اسم استِفهام – لغير العاقِل",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ماذا",
+        "voweledform": "مَاذَا",
+        "type": "اسم استِفهام – لغير العاقِل",
+        "prefixclass": "C1C2N4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "كم",
+        "voweledform": "كَمْ",
+        "type": "اسم استِفهام – عن العَدَد",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أين",
+        "voweledform": "أَيْنَ",
+        "type": "اسم استِفهام – عن المَكان",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أنى",
+        "voweledform": "أَنَّى",
+        "type": "اسم استِفهام – عن المَكان",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "متى",
+        "voweledform": "مَتَى",
+        "type": "اسم استِفهام – عن الزَّمان",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أيان",
+        "voweledform": "أَيَّانَ",
+        "type": "اسم استِفهام – عن الزَّمان",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أي",
+        "voweledform": "أَيّ",
+        "type": "اسم استِفهام – للتَّخيِير",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "من",
+        "voweledform": "مَنْ",
+        "type": "اسم شَرْط",
+        "prefixclass": "C1C2C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ما",
+        "voweledform": "ما",
+        "type": "اسم شَرْط",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أين",
+        "voweledform": "أَيْنَ",
+        "type": "اسم شَرْط",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "حيثما",
+        "voweledform": "حَيْثُمَا",
+        "type": "اسم شَرْط",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أنى",
+        "voweledform": "أَنَّى",
+        "type": "اسم شَرْط",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "متى",
+        "voweledform": "مَتَى",
+        "type": "اسم شَرْط",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أيان",
+        "voweledform": "أَيَّانَ",
+        "type": "اسم شَرْط",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "كيفما",
+        "voweledform": "كَيْفَمَا",
+        "type": "اسم شرط",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "105"
+    },
+    {
+        "unvoweledform": "أي",
+        "voweledform": "أَيّ",
+        "type": "اسم شَرْط",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إذا",
+        "voweledform": "إِذا",
+        "type": "ظَرف زَمان",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إذ",
+        "voweledform": "إِذْ",
+        "type": "ظَرف زَمان",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "متى",
+        "voweledform": "مَتَى",
+        "type": "ظَرف زَمان",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أيان",
+        "voweledform": "أَيَّانَ",
+        "type": "ظَرف زَمان",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "الآن",
+        "voweledform": "الآنَ",
+        "type": "ظَرف زَمان",
+        "prefixclass": "C1C2C3",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "آنذاك",
+        "voweledform": "آنَذَاكَ",
+        "type": "ظَرف زَمان",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أمس",
+        "voweledform": "أَمْسِ",
+        "type": "ظَرف زَمان",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "مذ",
+        "voweledform": "مُذْ",
+        "type": "ظَرف زَمان",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "منذ",
+        "voweledform": "مُنْذُ",
+        "type": "ظَرف زَمان",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "قط",
+        "voweledform": "قَطُّ",
+        "type": "ظَرف زَمان",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "فقط",
+        "voweledform": "فَقَطْ",
+        "type": "ظرف",
+        "prefixclass": "C1",
+        "suffixclass": "C1C2C3N1",
+        "priority": "119"
+    },
+    {
+        "unvoweledform": "مع",
+        "voweledform": "مَعَ",
+        "type": "ظَرف (للزَّمان والمَكان)",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1C2C3N1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "حيث",
+        "voweledform": "حَيْثُ",
+        "type": "ظَرف مَكان",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أين",
+        "voweledform": "أَيْنَ",
+        "type": "ظَرف مَكان",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أنى",
+        "voweledform": "أَنَّى",
+        "type": "ظَرف مَكان",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "عند",
+        "voweledform": "عِنْدَ",
+        "type": "ظرف",
+        "prefixclass": "C1C2C3",
+        "suffixclass": "C1C2C3N1",
+        "priority": "119"
+    },
+    {
+        "unvoweledform": "عندما",
+        "voweledform": "عِنْدَمَا",
+        "type": "ظرف",
+        "prefixclass": "C1C2C3",
+        "suffixclass": "C1C2C3N1",
+        "priority": "119"
+    },
+    {
+        "unvoweledform": "دون",
+        "voweledform": "دُونَ",
+        "type": "ظرف",
+        "prefixclass": "C1C2C3",
+        "suffixclass": "C1C2C3N1",
+        "priority": "119"
+    },
+    {
+        "unvoweledform": "دونما",
+        "voweledform": "دُونَمَا",
+        "type": "ظرف",
+        "prefixclass": "C1C2C3",
+        "suffixclass": "C1",
+        "priority": "119"
+    },
+    {
+        "unvoweledform": "إزاء",
+        "voweledform": "إِزَاءَ",
+        "type": "ظرف",
+        "prefixclass": "C1C2C3",
+        "suffixclass": "C1C2C3N1V1V2",
+        "priority": "119"
+    },
+    {
+        "unvoweledform": "يومئذ",
+        "voweledform": "يَوْمَئِذٍ",
+        "type": "ظرف",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "119"
+    },
+    {
+        "unvoweledform": "كل",
+        "voweledform": "كُلَّ",
+        "type": "اسم يفيد الكل",
+        "prefixclass": "C1C2C3",
+        "suffixclass": "C1C2C3N1",
+        "priority": "119"
+    },
+    {
+        "unvoweledform": "عوض",
+        "voweledform": "عَوْضُ",
+        "type": "ظرف",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "119"
+    },
+    {
+        "unvoweledform": "ثم",
+        "voweledform": "ثَمَّ",
+        "type": "ظَرف مَكان",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هنا",
+        "voweledform": "هُنَا",
+        "type": "ظَرف مَكان",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "لدن",
+        "voweledform": "لَدُنْ",
+        "type": "ظَرف مَكان",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "لدى",
+        "voweledform": "لَدَى",
+        "type": "ظَرف مَكان",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "لدي",
+        "voweledform": "لَدَيْ",
+        "type": "ظَرف مَكان",
+        "prefixclass": "C1C2",
+        "suffixclass": "C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "كيف",
+        "voweledform": "كَيْفَ",
+        "type": "ظَرف (للزَّمان والمَكان)",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "بينا",
+        "voweledform": "بَيْنَا",
+        "type": "ظرف",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "119"
+    },
+    {
+        "unvoweledform": "أدنى",
+        "voweledform": "أَدْنَى",
+        "type": "ظرف",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "119"
+    },
+    {
+        "unvoweledform": "بين",
+        "voweledform": "بَيْنَ",
+        "type": "ظرف",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3N1",
+        "priority": "119"
+    },
+    {
+        "unvoweledform": "بينما",
+        "voweledform": "بَيْنَمَا",
+        "type": "ظرف",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "119"
+    },
+    {
+        "unvoweledform": "ريثما",
+        "voweledform": "رَيْثَمَا",
+        "type": "ظرف",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "119"
+    },
+    {
+        "unvoweledform": "قبل",
+        "voweledform": "قَبْلَ",
+        "type": "ظرف",
+        "prefixclass": "C1C2C3",
+        "suffixclass": "C1C2C3N1",
+        "priority": "119"
+    },
+    {
+        "unvoweledform": "بعد",
+        "voweledform": "بَعْدَ",
+        "type": "ظرف",
+        "prefixclass": "C1C2C3",
+        "suffixclass": "C1C2C3N1",
+        "priority": "119"
+    },
+    {
+        "unvoweledform": "بعدما",
+        "voweledform": "بَعْدَمَا",
+        "type": "ظرف",
+        "prefixclass": "C1C2C3",
+        "suffixclass": "C1C2C3N1",
+        "priority": "119"
+    },
+    {
+        "unvoweledform": "هيهات",
+        "voweledform": "هَيْهاتَ",
+        "type": "اسم فِعل ماضٍ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "شتان",
+        "voweledform": "شَتَّانَ",
+        "type": "اسم فِعل ماضٍ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "سرعان",
+        "voweledform": "سَرْعَانَ",
+        "type": "اسم فِعل ماضٍ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "سرعان",
+        "voweledform": "سُرْعَانَ",
+        "type": "اسم فِعل ماضٍ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "واها",
+        "voweledform": "واهًا",
+        "type": "اسم فِعل مُضارِع",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "وي",
+        "voweledform": "وَيْ",
+        "type": "اسم فِعل مُضارِع",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "وا",
+        "voweledform": "وا",
+        "type": "اسم فِعل مُضارِع",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "آه",
+        "voweledform": "آهٍ",
+        "type": "اسم فِعل مُضارِع",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أوه",
+        "voweledform": "أَوْهِ",
+        "type": "اسم فِعل مُضارِع",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "بخ بخ",
+        "voweledform": "بَخ ْبَخْ",
+        "type": "اسم فِعل مُضارِع",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "بخ بخ",
+        "voweledform": "بَخٍ بَخٍ",
+        "type": "اسم فِعل مُضارِع",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "صه",
+        "voweledform": "صَهْ",
+        "type": "اسم فِعل أمر",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ها",
+        "voweledform": "ها",
+        "type": "اسم فِعل أمر",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "آمين",
+        "voweledform": "آمِين",
+        "type": "اسم فِعل أمر",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "إيه",
+        "voweledform": "إِيهِ",
+        "type": "اسم فِعل أمر",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "مه",
+        "voweledform": "مَهْ",
+        "type": "اسم فِعل أمر",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "كخ",
+        "voweledform": "كُخّ",
+        "type": "اسم صَوت بِمعنى الفِعل",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "دده",
+        "voweledform": "دِدَّه",
+        "type": "اسم صَوت بِمعنى الفِعل",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "تاتا",
+        "voweledform": "تاتا",
+        "type": "اسم صَوت بِمعنى الفِعل",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هلا",
+        "voweledform": "هَلا",
+        "type": "اسم صَوت بِمعنى الفِعل",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "نخ",
+        "voweledform": "نِخّ",
+        "type": "اسم صَوت بِمعنى الفِعل",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "حا",
+        "voweledform": "حا",
+        "type": "اسم صَوت بِمعنى الفِعل",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "شي",
+        "voweledform": "شِي",
+        "type": "اسم صَوت بِمعنى الفِعل",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ذو",
+        "voweledform": "ذو",
+        "type": "مِن الأسماء السِّتَّة في حالة الرَّفع",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أبو",
+        "voweledform": "أَبو",
+        "type": "مِن الأسماء السِّتَّة في حالة الرَّفع",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أخو",
+        "voweledform": "أَخو",
+        "type": "مِن الأسماء السِّتَّة في حالة الرَّفع",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "حمو",
+        "voweledform": "حمو",
+        "type": "مِن الأسماء السِّتَّة في حالة الرَّفع",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "فو",
+        "voweledform": "فُو",
+        "type": "مِن الأسماء السِّتَّة في حالة الرَّفع",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هنو",
+        "voweledform": "هَنُو",
+        "type": "مِن الأسماء السِّتَّة في حالة الرَّفع",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ذا",
+        "voweledform": "ذا",
+        "type": "مِن الأسماء السِّتَّة في حالَة النَّصْب",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أبا",
+        "voweledform": "أَبا",
+        "type": "مِن الأسماء السِّتَّة في حالَة النَّصْب",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أخا",
+        "voweledform": "أَخا",
+        "type": "مِن الأسماء السِّتَّة في حالَة النَّصْب",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "حما",
+        "voweledform": "حَما",
+        "type": "مِن الأسماء السِّتَّة في حالَة النَّصْب",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "فا",
+        "voweledform": "فا",
+        "type": "مِن الأسماء السِّتَّة في حالَة النَّصْب",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هنا",
+        "voweledform": "هَنا",
+        "type": "مِن الأسماء السِّتَّة في حالَة النَّصْب",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ذي",
+        "voweledform": "ذِي",
+        "type": "مِن الأسماء السِّتَّة في حالَة الجَرّ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أبي",
+        "voweledform": "أَبي",
+        "type": "مِن الأسماء السِّتَّة في حالَة الجَرّ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أخي",
+        "voweledform": "أَخِي",
+        "type": "مِن الأسماء السِّتَّة في حالَة الجَرّ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "حمي",
+        "voweledform": "حَمِي",
+        "type": "مِن الأسماء السِّتَّة في حالَة الجَرّ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "في",
+        "voweledform": "فِي",
+        "type": "مِن الأسماء السِّتَّة في حالَة الجَرّ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هني",
+        "voweledform": "هَنِي",
+        "type": "مِن الأسماء السِّتَّة في حالَة الجَرّ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "نعم",
+        "voweledform": "نِعْمَ",
+        "type": "فِعل ماضٍ جامِد",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "حبذا",
+        "voweledform": "حَبَّذَا",
+        "type": "فِعل ماضٍ جامِد",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "لاحبذا",
+        "voweledform": "لاحَبَّذَا",
+        "type": "فِعل ماضٍ جامِد",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "بئس",
+        "voweledform": "بِئْسَ",
+        "type": "فِعل ماضٍ جامِد",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ساء",
+        "voweledform": "سَاءَ",
+        "type": "فِعل ماضٍ جامِد",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ليس",
+        "voweledform": "لَيْسَ",
+        "type": "فِعل ماضٍ جامِد",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "عسى",
+        "voweledform": "عَسَى",
+        "type": "فِعل ماضٍ جامِد",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "يدع",
+        "voweledform": "يَدَع",
+        "type": "فِعل مُضارِع جامِد",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "يذر",
+        "voweledform": "يَذَر",
+        "type": "فِعل مُضارِع جامِد",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هب",
+        "voweledform": "هَبْ",
+        "type": "فِعل أمر جامِد",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هات",
+        "voweledform": "هَاتِ",
+        "type": "فِعل أمر جامِد",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "هلم",
+        "voweledform": "هَلُمَّ",
+        "type": "فِعل أمر جامِد",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "تعال",
+        "voweledform": "تَعَالَ",
+        "type": "فِعل أمر جامِد",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "بي",
+        "voweledform": "بِي",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "بك",
+        "voweledform": "بِكَ",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "بك",
+        "voweledform": "بِكِ",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "به",
+        "voweledform": "بِهِ",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "بها",
+        "voweledform": "بِهَا",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "بنا",
+        "voweledform": "بِنَا",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "بكما",
+        "voweledform": "بِكُمَا",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "بهما",
+        "voweledform": "بِهِمَا",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "بهم",
+        "voweledform": "بِهِمْ",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "بهن",
+        "voweledform": "بِهِنَّ",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "لي",
+        "voweledform": "لِي",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "لك",
+        "voweledform": "لَكَ",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "لك",
+        "voweledform": "لَكِ",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "له",
+        "voweledform": "لَهِ",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "لها",
+        "voweledform": "لَهَا",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "لنا",
+        "voweledform": "لَنَا",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "لكما",
+        "voweledform": "لَكُمَا",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "لهما",
+        "voweledform": "لَهُمَا",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "لهم",
+        "voweledform": "لَهُمْ",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "لهن",
+        "voweledform": "لَهُنَّ",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "منا",
+        "voweledform": "مِنَّا",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "مما",
+        "voweledform": "مِمَّا",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "عنا",
+        "voweledform": "عَنَّا",
+        "type": "جار ومجرور",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "118"
+    },
+    {
+        "unvoweledform": "إنا",
+        "voweledform": "إِنَّا",
+        "type": "حرف ناسخ",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "إنما",
+        "voweledform": "إِنَّمَا",
+        "type": "حرف ناسخ",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "أنا",
+        "voweledform": "أَنَّا",
+        "type": "حرف ناسخ",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "لكنا",
+        "voweledform": "لَكِنَّا",
+        "type": "حرف ناسخ",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "لست",
+        "voweledform": "لَسْتُ",
+        "type": "فعل ناسخ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "لست",
+        "voweledform": "لَسْتَ",
+        "type": "فعل ناسخ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "لست",
+        "voweledform": "لَسْتِ",
+        "type": "فعل ناسخ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "ليست",
+        "voweledform": "لَيْسَتْ",
+        "type": "فعل ناسخ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "لسنا",
+        "voweledform": "لَسْنَا",
+        "type": "فعل ناسخ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "لستما",
+        "voweledform": "لَسْتُمَا",
+        "type": "فعل ناسخ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "لَيْسَا",
+        "voweledform": "لَيْسَا",
+        "type": "فعل ناسخ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "ليستا",
+        "voweledform": "لَيْسَتَا",
+        "type": "فعل ناسخ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "لستم",
+        "voweledform": "لَسْتُمْ",
+        "type": "فعل ناسخ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "لستن",
+        "voweledform": "لَسْتُنَّ",
+        "type": "فعل ناسخ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "ليسوا",
+        "voweledform": "لَيْسُوا",
+        "type": "فعل ناسخ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "لسن",
+        "voweledform": "لَسْنَ",
+        "type": "فعل ناسخ",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "104"
+    },
+    {
+        "unvoweledform": "و",
+        "voweledform": "وَ",
+        "type": "حَرف عَطف",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ل",
+        "voweledform": "لِ",
+        "type": "حرف جر",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ب",
+        "voweledform": "بِ",
+        "type": "حرف جر",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ه",
+        "voweledform": "هُ",
+        "type": "ضَمير الغائِب – للمُفرَد المُذَكَّر",
+        "prefixclass": "C1",
+        "suffixclass": "V1V2V3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ف",
+        "voweledform": "فَ",
+        "type": "حَرف عَطف",
+        "prefixclass": "C1",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ك",
+        "voweledform": "كَ",
+        "type": "حرف تَشبِيه ناسِخ",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "س",
+        "voweledform": "سَ",
+        "type": "حَرف تَسوِيف (للمُضارِع)",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "أ",
+        "voweledform": "أَ",
+        "type": "أداة استفهام",
+        "prefixclass": "C1C2",
+        "suffixclass": "C1",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ت",
+        "voweledform": "تَ",
+        "type": "حرف توكيد ناسِخ",
+        "prefixclass": "C1C2C3C4N4",
+        "suffixclass": "C1C2C3V1V2",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "م",
+        "voweledform": "مِ",
+        "type": "حرف جر",
+        "prefixclass": "C1C2C3C4",
+        "suffixclass": "C1C2C3",
+        "priority": "301"
+    },
+    {
+        "unvoweledform": "ان",
+        "voweledform": "أَنْ",
+        "type": "حَرف مصدريّ ناصِب للمُضارِع",
+        "prefixclass": "C1C2C4",
+        "suffixclass": "C1",
+        "priority": "301"
+    }
+]

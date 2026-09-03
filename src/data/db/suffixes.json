@@ -1,0 +1,416 @@
+[
+    {
+        "unvoweledform": "",
+        "voweledform": "",
+        "desc": "",
+        "classe": "C1"
+    },
+    {
+        "unvoweledform": "ك",
+        "voweledform": "كَ",
+        "desc": "ضمير المخاطب",
+        "classe": "C2"
+    },
+    {
+        "unvoweledform": "ك",
+        "voweledform": "كِ",
+        "desc": "ضمير المخاطب",
+        "classe": "C2"
+    },
+    {
+        "unvoweledform": "كما",
+        "voweledform": "كُمَا",
+        "desc": "ضمير المخاطبين",
+        "classe": "C2"
+    },
+    {
+        "unvoweledform": "كم",
+        "voweledform": "كُمْ",
+        "desc": "ضمير المخاطبين",
+        "classe": "C2"
+    },
+    {
+        "unvoweledform": "كن",
+        "voweledform": "كُنَّ",
+        "desc": "ضمير المخاطبات",
+        "classe": "C2"
+    },
+    {
+        "unvoweledform": "ه",
+        "voweledform": "ه",
+        "desc": "ضمير الغائب",
+        "classe": "C3"
+    },
+    {
+        "unvoweledform": "ها",
+        "voweledform": "هَا",
+        "desc": "ضمير الغائبة",
+        "classe": "C3"
+    },
+    {
+        "unvoweledform": "هما",
+        "voweledform": "همَا",
+        "desc": "ضمير الغائبين",
+        "classe": "C3"
+    },
+    {
+        "unvoweledform": "هم",
+        "voweledform": "همْ",
+        "desc": "ضمير الغائبين",
+        "classe": "C3"
+    },
+    {
+        "unvoweledform": "هن",
+        "voweledform": "هنَّ",
+        "desc": "ضمير الغائبات",
+        "classe": "C3"
+    },
+    {
+        "unvoweledform": "ني",
+        "voweledform": "نِي",
+        "desc": "نون الوقاية+ياء المتكلم",
+        "classe": "V1"
+    },
+    {
+        "unvoweledform": "نيه",
+        "voweledform": "نِيهِ",
+        "desc": "نون الوقاية+ياء المتكلم+ضمير الغائب",
+        "classe": "V2"
+    },
+    {
+        "unvoweledform": "نيها",
+        "voweledform": "نِيهَا",
+        "desc": "نون الوقاية+ياء المتكلم+ضمير الغائبة",
+        "classe": "V2"
+    },
+    {
+        "unvoweledform": "نيهما",
+        "voweledform": "نِيهِمَا",
+        "desc": "نون الوقاية+ياء المتكلم+ضمير الغائبين",
+        "classe": "V2"
+    },
+    {
+        "unvoweledform": "نيهم",
+        "voweledform": "نِيهِمْ",
+        "desc": "نون الوقاية+ياء المتكلم+ضمير الغائبين",
+        "classe": "V2"
+    },
+    {
+        "unvoweledform": "نيهن",
+        "voweledform": "نِيهِنَّ",
+        "desc": "نون الوقاية+ياء المتكلم+ضمير الغائبات",
+        "classe": "V2"
+    },
+    {
+        "unvoweledform": "نا",
+        "voweledform": "نَا",
+        "desc": "ضمير المتكلمين",
+        "classe": "V2"
+    },
+    {
+        "unvoweledform": "ناه",
+        "voweledform": "نَاهُ",
+        "desc": "ضمير المتكلمين+ضمير الغائب",
+        "classe": "V2"
+    },
+    {
+        "unvoweledform": "ناها",
+        "voweledform": "نَاهَا",
+        "desc": "ضمير المتكلمين+ضمير الغائبة",
+        "classe": "V2"
+    },
+    {
+        "unvoweledform": "ناهما",
+        "voweledform": "نَاهُمَا",
+        "desc": "ضمير المتكلمين+ضمير الغائبين",
+        "classe": "V2"
+    },
+    {
+        "unvoweledform": "ناهم",
+        "voweledform": "نَاهُمْ",
+        "desc": "ضمير المتكلمين+ضمير الغائبين",
+        "classe": "V2"
+    },
+    {
+        "unvoweledform": "ناهن",
+        "voweledform": "نَاهُنَّ",
+        "desc": "ضمير المتكلمين+ضمير الغائبات",
+        "classe": "V2"
+    },
+    {
+        "unvoweledform": "كه",
+        "voweledform": "كَهُ",
+        "desc": "ضمير المخاطب+ضمير الغائب",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كها",
+        "voweledform": "كَهَا",
+        "desc": "ضمير المخاطب+ضمير الغائبة",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كهما",
+        "voweledform": "كَهُمَا",
+        "desc": "ضمير المخاطب+ضمير الغائبين",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كهم",
+        "voweledform": "كَهُمْ",
+        "desc": "ضمير المخاطب+ضمير الغائبين",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كهن",
+        "voweledform": "كَهُنَّ",
+        "desc": "ضمير المخاطب+ضمير الغائبات",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كه",
+        "voweledform": "كِهُ",
+        "desc": "ضمير المخاطبة+ضمير الغائب",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كها",
+        "voweledform": "كِهَا",
+        "desc": "ضمير المخاطبة+ضمير الغائبة",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كهما",
+        "voweledform": "كِهُمَا",
+        "desc": "ضمير المخاطبة+ضمير الغائبين",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كهم",
+        "voweledform": "كِهُمْ",
+        "desc": "ضمير المخاطبة+ضمير الغائبين",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كهن",
+        "voweledform": "كِهُنَّ",
+        "desc": "ضمير المخاطبة+ضمير الغائبات",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كماه",
+        "voweledform": "كُمَاهُ",
+        "desc": "ضمير المخاطبين+ضمير الغائب",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كماها",
+        "voweledform": "كُمَاهَا",
+        "desc": "ضمير المخاطبين+ضمير الغائبة",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كماهما",
+        "voweledform": "كُمَاهُمَا",
+        "desc": "ضمير المخاطبين+ضمير الغائبين",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كماهم",
+        "voweledform": "كُمَاهُمْ",
+        "desc": "ضمير المخاطبين+ضمير الغائبين",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كماهن",
+        "voweledform": "كُمَاهُنَّ",
+        "desc": "ضمير المخاطبين+ضمير الغائبات",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كموه",
+        "voweledform": "كُمُوهُ",
+        "desc": "ضمير المخاطبين+ضمير الغائب",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كموها",
+        "voweledform": "كُمُوهَا",
+        "desc": "ضمير المخاطبين+ضمير الغائبة",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كموهما",
+        "voweledform": "كُمُوهُمَا",
+        "desc": "ضمير المخاطبين+ضمير الغائبين",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كموهم",
+        "voweledform": "كُمُوهُمْ",
+        "desc": "ضمير المخاطبين+ضمير الغائبين",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كموهن",
+        "voweledform": "كُمُوهُنَّ",
+        "desc": "ضمير المخاطبين+ضمير الغائبات",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كنه",
+        "voweledform": "كُنَّهُ",
+        "desc": "ضمير المخاطبات+ضمير الغائب",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كنها",
+        "voweledform": "كُنَّهَا",
+        "desc": "ضمير المخاطبات+ضمير الغائبة",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كنهما",
+        "voweledform": "كُنَّهُمَا",
+        "desc": "ضمير المخاطبات+ضمير الغائبين",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كنهم",
+        "voweledform": "كُنَّهُمْ",
+        "desc": "ضمير المخاطبات+ضمير الغائبين",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "كنهن",
+        "voweledform": "كُنَّهُنَّ",
+        "desc": "ضمير المخاطبات+ضمير الغائبات",
+        "classe": "V3"
+    },
+    {
+        "unvoweledform": "وني",
+        "voweledform": "ونِي",
+        "desc": "نون الوقاية+ياء المتكلم",
+        "classe": "V4"
+    },
+    {
+        "unvoweledform": "ونيه",
+        "voweledform": "ونِيهِ",
+        "desc": "نون الوقاية+ياء المتكلم+ضمير الغائب",
+        "classe": "V4"
+    },
+    {
+        "unvoweledform": "ونيها",
+        "voweledform": "ونِيهَا",
+        "desc": "نون الوقاية+ياء المتكلم+ضمير الغائبة",
+        "classe": "V4"
+    },
+    {
+        "unvoweledform": "ونيهما",
+        "voweledform": "ونِيهِمَا",
+        "desc": "نون الوقاية+ياء المتكلم+ضمير الغائبين",
+        "classe": "V4"
+    },
+    {
+        "unvoweledform": "ونيهم",
+        "voweledform": "ونِيهِمْ",
+        "desc": "نون الوقاية+ياء المتكلم+ضمير الغائبين",
+        "classe": "V4"
+    },
+    {
+        "unvoweledform": "ونيهن",
+        "voweledform": "ونِيهِنَّ",
+        "desc": "نون الوقاية+ياء المتكلم+ضمير الغائبات",
+        "classe": "V4"
+    },
+    {
+        "unvoweledform": "ونا",
+        "voweledform": "ونَا",
+        "desc": "ضمير المتكلمين",
+        "classe": "V4"
+    },
+    {
+        "unvoweledform": "وناه",
+        "voweledform": "ونَاهُ",
+        "desc": "ضمير المتكلمين+ضمير الغائب",
+        "classe": "V4"
+    },
+    {
+        "unvoweledform": "وناها",
+        "voweledform": "ونَاهَا",
+        "desc": "ضمير المتكلمين+ضمير الغائبة",
+        "classe": "V4"
+    },
+    {
+        "unvoweledform": "وناهما",
+        "voweledform": "ونَاهُمَا",
+        "desc": "ضمير المتكلمين+ضمير الغائبين",
+        "classe": "V4"
+    },
+    {
+        "unvoweledform": "وناهم",
+        "voweledform": "ونَاهُمْ",
+        "desc": "ضمير المتكلمين+ضمير الغائبين",
+        "classe": "V4"
+    },
+    {
+        "unvoweledform": "وناهن",
+        "voweledform": "ونَاهُنَّ",
+        "desc": "ضمير المتكلمين+ضمير الغائبات",
+        "classe": "V4"
+    },
+    {
+        "unvoweledform": "وه",
+        "voweledform": "وهُ",
+        "desc": "ضمير الغائب",
+        "classe": "V4"
+    },
+    {
+        "unvoweledform": "وها",
+        "voweledform": "وهَا",
+        "desc": "ضمير الغائبة",
+        "classe": "V4"
+    },
+    {
+        "unvoweledform": "وهما",
+        "voweledform": "وهُمَا",
+        "desc": "ضمير الغائبين",
+        "classe": "V4"
+    },
+    {
+        "unvoweledform": "وهم",
+        "voweledform": "وهُمْ",
+        "desc": "ضمير الغائبين",
+        "classe": "V4"
+    },
+    {
+        "unvoweledform": "وهن",
+        "voweledform": "وهُنَّ",
+        "desc": "ضمير الغائبات",
+        "classe": "V4"
+    },
+    {
+        "unvoweledform": "ي",
+        "voweledform": "ي",
+        "desc": "ضمير المتكلم",
+        "classe": "N1"
+    },
+    {
+        "unvoweledform": "ت",
+        "voweledform": "تْ",
+        "desc": "تاء التأنيث / المخاطبة",
+        "classe": "V2"
+    },
+    {
+        "unvoweledform": "ون",
+        "voweledform": "ونَ",
+        "desc": "علامة جمع الذكور",
+        "classe": "V2"
+    },
+    {
+        "unvoweledform": "وا",
+        "voweledform": "وَا",
+        "desc": "علامة جمع الذكور",
+        "classe": "V2"
+    }
+]

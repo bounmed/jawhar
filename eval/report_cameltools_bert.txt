@@ -1,0 +1,39 @@
+== CAMeL Tools baseline (same harness, 17-tag UPOS) ==
+Backend        : bert
+Token accuracy : 80.58%
+Macro-F1       : 0.6126
+OOV accuracy   : 65.89%
+
+TAG                      P       R      F1       N
+NOUN                 0.865   0.929   0.895    9547
+ADP                  0.986   0.837   0.905    4528
+ADJ                  0.885   0.856   0.870    2937
+VERB                 0.952   0.988   0.969    2189
+CCONJ                0.986   0.908   0.945    1962
+X                    0.038   0.011   0.017    1380
+PRON                 0.500   0.611   0.550    1133
+NUM                  1.000   0.643   0.783     779
+DET                  0.000   0.000   0.000     623
+SCONJ                0.918   0.905   0.911     535
+PART                 0.748   0.881   0.809     226
+AUX                  0.000   0.000   0.000     197
+ADV                  0.585   0.462   0.516     104
+SYM                  0.976   1.000   0.988      41
+PROPN                0.015   0.968   0.030      31
+
+== Diagnostic: gold UPOS -> most common CAMeL pos ===
+NOUN   (N= 9547) -> noun:8865, noun_prop:484, adj:176, adv:14
+ADP    (N= 4528) -> prep:3791, noun:461, noun_prop:193, abbrev:42
+ADJ    (N= 2937) -> adj:2513, noun:322, noun_prop:75, pron_interrog:15
+VERB   (N= 2189) -> verb:2162, noun:15, noun_prop:9, adj:2
+CCONJ  (N= 1962) -> conj:1781, prep:44, noun:37, conj_sub:32
+X      (N= 1380) -> noun_prop:896, noun:306, adj:63, verb:51
+PRON   (N= 1133) -> pron_dem:431, noun_prop:262, pron:261, abbrev:175
+NUM    (N=  779) -> digit:501, noun:190, adj:83, noun_prop:5
+DET    (N=  623) -> pron_rel:381, pron_dem:220, part_neg:12, adv_interrog:4
+SCONJ  (N=  535) -> conj_sub:484, abbrev:50, conj:1
+PART   (N=  226) -> part_neg:154, part:30, conj_sub:11, part_verb:9
+AUX    (N=  197) -> abbrev:84, verb:50, part_verb:35, noun_prop:8
+ADV    (N=  104) -> adv:48, noun:35, pron_dem:11, prep:7
+SYM    (N=   41) -> punc:41
+PROPN  (N=   31) -> noun_prop:30, noun:1

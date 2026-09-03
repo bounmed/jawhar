@@ -1,0 +1,12 @@
+# Core evaluation
+scikit-learn>=1.3.0
+
+# Fine-tuned scorer / BERT reranker (optional — only for the neural experiments)
+torch>=2.1.0
+transformers>=4.40.0
+
+# Data conversion (UD-PADT CoNLL-U -> 2-column CoNLL)
+conllu>=4.5
+
+# External same-harness baseline (optional — only for the CAMeL Tools comparison)
+# camel-tools>=1.5
